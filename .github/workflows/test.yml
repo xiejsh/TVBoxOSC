@@ -15,10 +15,10 @@ jobs:
       fail-fast: false
       matrix:
         include:
-          - userName: xiejsh
+          - userName: q215613905
             repoName: TVBoxOS
             branchName: main
-          - userName: xiejsh
+          - userName: takagen99
             repoName: Box
             branchName: main
     steps:
